@@ -12,6 +12,8 @@ This repository contains the official implementation of the methods proposed in 
 
 Subglottal pressure \(P_s\) is a physiologically critical variable for understanding voice production and diagnosing voice disorders. Direct measurement of $P_s$ is invasive and impractical for ambulatory monitoring. This work presents a method for estimating $P_s$ from non-invasive neck-surface acceleration (ACC) signals using a subject-specific machine learning framework that includes domain adaptation from synthetic to in vivo data.
 
+The following diagram illustrates the modeling pipeline proposed in the paper, combining training with synthetic data and subject-specific adaptation with in vivo ACC signals:
+
 ![Model pipeline overview](https://ars.els-cdn.com/content/image/1-s2.0-S1746809425001922-gr1.jpg)
 
 The approach combines:
