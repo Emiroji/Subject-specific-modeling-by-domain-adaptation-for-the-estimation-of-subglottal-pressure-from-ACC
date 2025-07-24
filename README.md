@@ -26,6 +26,10 @@ The approach combines:
 - MPL-TL-Control.ipynb`: Code for subglottal pressure estimation in LD2, Table 6, Control group (Section 3.1.2)
 - `Model_synthetic_6.pt`: Pretrained neural network model trained on synthetic voice production data.
 
+## 📁 Data Availability
+
+The data used in this study were collected under institutional review board (IRB) protocols and are subject to strict privacy regulations. Due to these restrictions, the dataset cannot be publicly shared.
+
 ## 📄 Citation
 
 If you use this code or find it helpful in your own work, please cite the following article:
@@ -40,9 +44,4 @@ If you use this code or find it helpful in your own work, please cite the follow
   doi     = {10.1016/j.bspc.2025.107681},
   author  = {Emiro J. Ibarra and Julián D. Arias-Londoño and Juan I. Godino-Llorente and Daryush D. Mehta and Matías Zañartu}
 }
-
-## 📁 Data Availability
-
-The data used in this study were collected under institutional review board (IRB) protocols and are subject to strict privacy regulations. Due to these restrictions, the dataset cannot be publicly shared.
-
 
