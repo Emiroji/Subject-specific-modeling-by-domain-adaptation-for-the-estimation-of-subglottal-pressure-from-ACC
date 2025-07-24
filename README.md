@@ -27,16 +27,18 @@ The approach combines:
 - `Model_synthetic_6.pt`: Pretrained neural network model trained on synthetic voice production data.
 
 ## 📄 Citation
+
 If you use this code or find it helpful in your own work, please cite the following article:
 
-@article{IBARRA2025,
-  title = {Subject-specific modeling by domain adaptation for the estimation of subglottal pressure from neck-surface acceleration signals},
+```bibtex
+@article{IBARRA2025107681,
+  title   = {Subject-specific modeling by domain adaptation for the estimation of subglottal pressure from neck-surface acceleration signals},
   journal = {Biomedical Signal Processing and Control},
-  volume = {106},
-  pages = {107681},
-  year = {2025},
-  doi = {https://doi.org/10.1016/j.bspc.2025.107681},
-  author = {Emiro J. Ibarra and Julián D. Arias-Londoño and Juan I. Godino-Llorente and Daryush D. Mehta and Matías Zañartu}
+  volume  = {106},
+  pages   = {107681},
+  year    = {2025},
+  doi     = {10.1016/j.bspc.2025.107681},
+  author  = {Emiro J. Ibarra and Julián D. Arias-Londoño and Juan I. Godino-Llorente and Daryush D. Mehta and Matías Zañartu}
 }
 
 ## 📁 Data Availability
