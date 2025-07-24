@@ -23,8 +23,8 @@ The approach combines:
 
 ## 📁 Contents
 
-- MPL-TL-Control.ipynb`: Code for subglottal pressure estimation in LD2, Table 6, Control group (Section 3.1.2)
-- `Model_synthetic_6.pt`: Pretrained neural network model trained on synthetic voice production data.
+- [MPL-TL-Control.ipynb](notebooks/MPL-TL-Control.ipynb): Code for subglottal pressure estimation in LD2, Table 6, Control group (Section 3.1.2)
+- Notebook: MPL-TL-Control.ipynb](notebooks/MPL-TL-Control.ipynb) : Pretrained neural network model trained on synthetic voice production data.
 
 ## 📁 Data Availability
 
